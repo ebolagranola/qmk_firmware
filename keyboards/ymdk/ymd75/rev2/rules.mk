@@ -11,4 +11,4 @@ RGBLIGHT_ENABLE = yes
 WS2812_DRIVER = i2c
 NKRO_ENABLE = no            # Enable N-Key Rollover
 
-KEY_LOCK_ENABLE = yes
+KEY_LOCK_ENABLE = no
